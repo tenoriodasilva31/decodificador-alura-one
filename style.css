@@ -61,7 +61,7 @@ textarea {
 
 #txt-area2::placeholder {
     color: #0A3871;
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     color: #495057;
 }
@@ -83,7 +83,7 @@ textarea {
 
 h3 {
     color: #0A3871;
-    font-size: 18px;
+    font-size: 20px;
   }
   /* criptografar */
 .encrypt {
@@ -117,10 +117,10 @@ h3 {
 
 .button {
     display: flex;
-    border-radius: 18px;
+    border-radius: 10px;
     width: 230px;
     height: 45px;
-    border: #0A3871 solid 2px;
+    border: #0A3871 solid 1px;
     box-shadow: 2px 4px 2px  #00000040;
     justify-content: center;
     align-items: center;
@@ -130,7 +130,7 @@ h3 {
 }
 
 .btn-1 {
-    background-color: #0a3871;
+    background-color: #0047ab;
     color: white;
     outline:0; 
     transition:all .3s ease-out; 
@@ -151,7 +151,7 @@ h3 {
 }
 
 .btn-2 {
-    color: #0A3871;
+    color: #0047ab;
     background: #EFF1FA;
     transition:all .3s ease-out; 
     box-shadow:inset 0 -4px 0 0 rgb(202, 202, 202),
@@ -174,8 +174,8 @@ h3 {
 }
    
 .btn-3 {
-    background-color: white;
-    transition:all .3s ease-out; 
+    background-color: #FDFEFF;
+    transition:all .3s ease; 
     box-shadow:inset 0 -4px 0 0 rgb(128, 128, 128),
     1px 1px 0 0 gray,
     2px 2px 0 0 gray,
